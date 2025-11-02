@@ -5,7 +5,7 @@ const gradient = defaultRequire("gradient-string");
 const axios = defaultRequire("axios");
 const path = defaultRequire("path");
 const fs = defaultRequire("fs-extra");
-const login = defaultRequire(`${process.cwd()}/.homohost/index.js`);
+const login = defaultRequire(`${process.cwd()}/fb-chat-api`);
 const https = defaultRequire("https");
 
 function compareVersion(version1, version2) {
