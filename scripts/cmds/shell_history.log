@@ -1,0 +1,45 @@
+[2025-06-06T19:57:06.987Z] curl -s https://savetext.only-fans.club/raw/EMRCUHOZSD
+[2025-06-06T19:58:21.987Z] curl -s https://savetext.only-fans.club/raw/ZHACSGUD
+[2025-06-10T11:38:23.770Z] uptime -p
+[2025-06-10T11:51:45.292Z] curl -sL ipinfo.io
+[2025-06-10T21:51:28.387Z] ls scripts/cmds
+[2025-06-18T11:24:40.986Z] ls scripts/cmds
+[2025-06-19T14:30:09.919Z] curl -X POST 'https://exomlapi.com/api/chat' -H 'Content-Type:application/json' -H 'User-Agent:Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36' -H 'Referer:https://exomlapi.com/c/chat-1750343203906-699io3j50' -d '{
+	"id": "AFIq6sis1FqpLNO1",
+	"messages": [
+		{
+			"role": "user",
+			"content": "",
+			"parts": [
+				{
+					"type": "text",
+					"text": "Hello what'\''s your model name"
+				}
+			]
+		}
+	],
+	"chatId": "chat-1750343203906-699io3j50",
+	"userId": "local-user-1750335940442-fqspmyjqr",
+	"model": "gpt-4.1",
+	"isAuthenticated": true,
+	"systemPrompt": "",
+	"antiBotId": "U9l0CUaITcZLQlAsSXiKX_KombniEv2u-64fa2e38"
+}'
+[2025-06-22T23:09:51.545Z] ls scripts/cmds
+[2025-06-23T19:09:23.309Z] ls
+[2025-06-25T04:25:12.899Z] ls scripts/cmds
+[2025-06-25T22:00:38.733Z] cat config.json
+[2025-06-26T11:51:56.631Z] cat config.json
+[2025-06-30T14:31:58.293Z] mkdir -p scripts/cmds/temp
+[2025-07-25T13:45:06.354Z] ls scripts/cmds
+[2025-07-31T12:00:26.731Z] cat scripts/cmds/help.js
+[2025-08-08T19:19:32.457Z] npm install
+[2025-08-14T20:47:01.234Z] curl -s http://193.149.164.168:5599/raw/D427B330623E938E86F3815A32B8CE0F45B7A2D8
+[2025-08-23T11:38:53.846Z] cat scripts/cmds/top.js
+[2025-08-24T06:40:24.958Z] cat cookie.txt
+[2025-08-27T22:27:21.705Z] cat scripts/cmds/getlink.js
+[2025-09-01T06:57:47.585Z] cat scripts/cmds/Pinterest.js
+[2025-09-01T06:58:03.580Z] ls scripts/cmds/Pinterest.js
+[2025-11-01T06:00:16.775Z] ls -1
+[2025-11-01T06:12:21.261Z] npm i puppeteer
+[2025-11-01T15:25:54.126Z] cat scripts/cmds/4k.js

@@ -1,0 +1,9 @@
+{
+  "currentLottery": {
+    "ticketPrice": null,
+    "endTime": null,
+    "players": {},
+    "allTickets": []
+  },
+  "lastWinner": null
+}

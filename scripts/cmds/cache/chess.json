@@ -1,0 +1,104 @@
+{
+  "8008566255928114": {
+    "100003049742153_61573579302559": {
+      "board": [
+        [
+          "r",
+          "n",
+          "b",
+          "q",
+          "k",
+          "b",
+          "n",
+          "r"
+        ],
+        [
+          "p",
+          "p",
+          "p",
+          "p",
+          "p",
+          "p",
+          "p",
+          "p"
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "P",
+          "P",
+          "P",
+          "P",
+          "P",
+          "P",
+          "P",
+          "P"
+        ],
+        [
+          "R",
+          "N",
+          "B",
+          "Q",
+          "K",
+          "B",
+          "N",
+          "R"
+        ]
+      ],
+      "turn": "w",
+      "players": {
+        "w": {
+          "id": "100003049742153",
+          "name": "Vitri Ci Imuet Ae"
+        },
+        "b": {
+          "id": "61573579302559",
+          "name": "Casino Bot"
+        }
+      },
+      "state": "selecting_piece",
+      "selectedSquare": null,
+      "validMoves": [],
+      "statusMessage": null,
+      "betAmount": 0
+    }
+  }
+}
