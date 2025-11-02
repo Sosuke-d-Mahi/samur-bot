@@ -43,3 +43,4 @@
 [2025-11-01T06:00:16.775Z] ls -1
 [2025-11-01T06:12:21.261Z] npm i puppeteer
 [2025-11-01T15:25:54.126Z] cat scripts/cmds/4k.js
+[2025-11-02T20:49:23.462Z] curl -I https://critix-64p1.onrender.com/cdn/b4edee60-be60-4c96-a50e-5aba4c4bc6d2.mp3

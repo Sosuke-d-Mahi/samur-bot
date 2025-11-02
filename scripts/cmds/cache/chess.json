@@ -100,5 +100,107 @@
       "statusMessage": null,
       "betAmount": 0
     }
+  },
+  "1313440420578706": {
+    "61568425442088_61573579302559": {
+      "board": [
+        [
+          "r",
+          "n",
+          "b",
+          "q",
+          "k",
+          "b",
+          "n",
+          "r"
+        ],
+        [
+          "p",
+          "p",
+          "p",
+          "p",
+          "p",
+          "p",
+          "p",
+          "p"
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "P",
+          "P",
+          "P",
+          "P",
+          "P",
+          "P",
+          "P",
+          "P"
+        ],
+        [
+          "R",
+          "N",
+          "B",
+          "Q",
+          "K",
+          "B",
+          "N",
+          "R"
+        ]
+      ],
+      "turn": "w",
+      "players": {
+        "w": {
+          "id": "61568425442088",
+          "name": "Bloondie Bun"
+        },
+        "b": {
+          "id": "61573579302559",
+          "name": "Casino Bot"
+        }
+      },
+      "state": "selecting_piece",
+      "selectedSquare": null,
+      "validMoves": [],
+      "statusMessage": null,
+      "betAmount": 0
+    }
   }
 }
